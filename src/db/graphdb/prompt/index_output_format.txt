@@ -1,0 +1,16 @@
+STRICT OUTPUT FORMAT:
+- JSON만 반환
+- 설명 금지
+- Markdown 금지
+- 반드시 단일 JSON 배열
+
+형식:
+[
+  {
+    "head": "...",
+    "head_type": "...",
+    "relation": "...",
+    "tail": "...",
+    "tail_type": "..."
+  }
+]

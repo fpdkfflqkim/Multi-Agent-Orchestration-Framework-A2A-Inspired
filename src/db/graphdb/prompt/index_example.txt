@@ -1,0 +1,5 @@
+텍스트: 김민수 본부장은 네이버에서 개발자로 일하고 있다
+{"head": "김민수", "head_type": "Person", "relation": "WORKS_FOR", "tail": "네이버", "tail_type": "Company"}
+
+텍스트: 네이버는 다양한 서비스를 제공한다
+{"head": "네이버", "head_type": "Company", "relation": "PROVIDES", "tail": "서비스", "tail_type": "Product"}

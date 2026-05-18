@@ -1,0 +1,7 @@
+다음의 context를 활용하여 질문에 적절하게 답변하라.
+
+context:
+{context}
+
+질문:
+{input}

@@ -1,0 +1,8 @@
+STRICT OUTPUT FORMAT:
+- JSON만 반환
+- 설명 금지
+- Markdown 금지
+- 반드시 단일 JSON 배열
+
+형식:
+"{"entities" : [word1, word2, word3, ...]}"
