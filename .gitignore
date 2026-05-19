@@ -2,3 +2,4 @@
 neo4j_auth.txt
 .python-version
 .env
+__pycache__/
